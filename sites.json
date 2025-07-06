@@ -4,7 +4,7 @@
     "description": "Nyanet homepage with info and getting started",
     "url": "http://home.root",
     "tags": ["info", "start"],
-    "icon": ""
+    "icon": "http://home.root/assets/img/home-root-favicon.png"
   },
   {
     "title": "mocha.kitten",
@@ -25,20 +25,20 @@
     "description": "Celste simulated operating system",
     "url": "http://celeste.fex",
     "tags": ["os", "webos", "game"],
-    "icon": ""
+    "icon": "http://celesteos.fex/normal.PNG"
   },
   {
     "title": "nextos.fex",
     "description": "NextOS simulated operating system",
     "url": "http://nextos.fex",
     "tags": ["os", "webos", "game"],
-    "icon": ""
+    "icon": "http://nextos.fex/normal.PNG"
   },
   {
     "title": "halcyonport.fex",
     "description": "HalcyonOS simulated operating system",
     "url": "http://halcyonport.fex",
     "tags": ["os", "webos", "game"],
-    "icon": ""
+    "icon": "http://halcyonport.fex/halcyon-logo-dark.png"
   }
 ]
