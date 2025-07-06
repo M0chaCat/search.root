@@ -1,0 +1,23 @@
+[
+  {
+    "title": "home.root",
+    "description": "Nyanet homepage with info and getting started",
+    "url": "http://home.root",
+    "tags": ["info", "start"],
+    "icon": ""
+  },
+  {
+    "title": "mocha.kitten",
+    "description": "mocha’s personal den full of webby things",
+    "url": "http://mocha.kitten",
+    "tags": ["blog", "personal", "cat"],
+    "icon": "http://mocha.kitten/favicon.gif"
+  },
+  {
+    "title": "search.root",
+    "description": "Search engine for NyaNet",
+    "url": "http://search.home",
+    "tags": ["tool", "utility"],
+    "icon": ""
+  },
+]
