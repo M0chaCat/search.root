@@ -19,5 +19,26 @@
     "url": "http://search.root",
     "tags": ["tool", "utility"],
     "icon": ""
+  },
+  {
+    "title": "celesteos.fex",
+    "description": "Celste simulated operating system",
+    "url": "http://celeste.fex",
+    "tags": ["os", "webos", "game"],
+    "icon": ""
+  },
+  {
+    "title": "nextos.fex",
+    "description": "NextOS simulated operating system",
+    "url": "http://nextos.fex",
+    "tags": ["os", "webos", "game"],
+    "icon": ""
+  },
+  {
+    "title": "halcyonport.fex",
+    "description": "HalcyonOS simulated operating system",
+    "url": "http://halcyonport.fex",
+    "tags": ["os", "webos", "game"],
+    "icon": ""
   }
 ]
