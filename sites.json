@@ -34,6 +34,13 @@
     "tags": ["os", "webos", "game"],
     "icon": "http://nextos.fex/normal.PNG"
   },
+    {
+    "title": "helios.fex",
+    "description": "HeliOS simulated operating system",
+    "url": "http://helios.fex",
+    "tags": ["os", "webos", "game"],
+    "icon": "http://helios.fex/assets/normal.PNG"
+  },
   {
     "title": "halcyonport.fex",
     "description": "HalcyonOS simulated operating system",
