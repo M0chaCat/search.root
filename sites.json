@@ -63,6 +63,20 @@
     "icon": ""
   },
   {
+    "title": "InfiniKisser",
+    "description": "Boykisser",
+    "url": "http://boykisser.owo",
+    "tags": ["boykisser", "meme", "funny"],
+    "icon": "https://infinikisser.github.io/guh.png"
+  },
+  {
+    "title": "QT Link Shortener",
+    "description": "Shortens NyaNet urls!",
+    "url": "http://q.t",
+    "tags": ["shorten", "qt", "link"],
+    "icon": ""
+  },
+  {
     "title": "i bng",
     "description": "BNG",
     "url": "http://i.bng",
