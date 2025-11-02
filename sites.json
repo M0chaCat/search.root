@@ -21,31 +21,59 @@
     "icon": ""
   },
   {
-    "title": "celesteos.fex",
+    "title": "CelesteOS",
     "description": "Celste simulated operating system",
     "url": "http://celesteos.fex",
     "tags": ["os", "webos", "game"],
     "icon": "http://celesteos.fex/normal.PNG"
   },
   {
-    "title": "nextos.fex",
+    "title": "NextOS",
     "description": "NextOS simulated operating system",
     "url": "http://nextos.fex",
     "tags": ["os", "webos", "game"],
     "icon": "http://nextos.fex/normal.PNG"
   },
-    {
-    "title": "helios.fex",
-    "description": "HeliOS simulated operating system",
+  {
+    "title": "Helios",
+    "description": "Helios simulated operating system",
     "url": "http://helios.fex",
     "tags": ["os", "webos", "game"],
     "icon": "http://helios.fex/assets/normal.PNG"
   },
   {
-    "title": "halcyonport.fex",
+    "title": "Zephyr",
+    "description": "Zephyr simulated operating system",
+    "url": "http://Zephyr.fex",
+    "tags": ["os", "webos", "game"],
+    "icon": ""
+  },
+  {
+    "title": "Halcyon Port",
     "description": "HalcyonOS simulated operating system",
     "url": "http://halcyonport.fex",
     "tags": ["os", "webos", "game"],
     "icon": "http://halcyonport.fex/halcyon-logo-dark.png"
+  },
+  {
+    "title": "EvanOS Port",
+    "description": "EvanOS simulated operating system",
+    "url": "http://evanos.fex",
+    "tags": ["os", "webos", "game"],
+    "icon": ""
+  },
+  {
+    "title": "i bng",
+    "description": "BNG",
+    "url": "http://i.bng",
+    "tags": ["bng"],
+    "icon": ""
+  },
+  {
+    "title": "BNG",
+    "description": "BNG",
+    "url": "http://bng.bng",
+    "tags": ["bng"],
+    "icon": ""
   }
 ]
