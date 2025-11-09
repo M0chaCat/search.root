@@ -4,20 +4,52 @@
   <meta charset="UTF-8">
   <title>search.root — NyaNet!</title>
   <link rel="stylesheet" href="./styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
-    <script src="script.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+  <script src="script.js" defer></script>
+  <style>
+    :root { --wrapper-max: 600px; } /* match your wrapper max-width */
+
+    .wrapper { max-width: var(--wrapper-max); margin: 0 auto; }
+
+    .ad-container {
+      position: fixed;
+      top: 120px;
+
+      /* Compute horizontal center of the gap between wrapper and viewport */
+      right: calc((100vw - var(--wrapper-max)) / 4 - 150px); /* 150px = half of ad width */
+
+      width: 300px;
+      height: 300px;
+      z-index: 1000;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+      border-radius: 4px;
+      overflow: hidden;
+      background: white;
+    }
+
+    /* Hide on small screens */
+    @media (max-width: 920px) {
+      .ad-container { display: none; }
+    }
+  </style>
 </head>
 <body>
   <div class="wrapper">
     <header>
       <img src="searchroot.svg" alt="search.root logo" class="logo">
-      <p>Search across the cozy world of NyaNet!</p>
+      <p>Search across the cozy world of the NyaNet :3</p>
     </header>
 
     <section class="searchbox">
       <input type="text" id="searchInput" placeholder="search meow..." autocomplete="off">
       <ul id="results"></ul>
     </section>
+  </div>
+
+  <!-- Floating ad outside wrapper -->
+  <div class="ad-container">
+    <iframe src="https://ads.root/ad.php"
+            width="300" height="300" frameborder="0" scrolling="no" title="NyaNet ad"></iframe>
   </div>
 </body>
 </html>
